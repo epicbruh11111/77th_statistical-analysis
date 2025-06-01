@@ -15,3 +15,4 @@
 ### Also: This project is open source and used to present my new skills by this project, after finishing it I hope it gets famous and people
 ### try to optimize,polish,or anything else. 
 
+# Version: 0.0.1
